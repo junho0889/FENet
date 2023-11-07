@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RMA89MTqwVHXuXzvtclj56X46F/hiIheHw6pl2AXst7ihVI8jqBUxtwFIbcO0xP9ovZLG4NVhNzyyEW/bPziQ==",
+  "success": true,
+  "projectFilePath": "C:\\source\\FENet\\FENet\\FENet.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'http://server.interxlab.io:5555/v3/index.json' 'HTTP' 원본을 사용하여 'restore' 작업을 실행하고 있습니다. 비 HTTPS 액세스는 이후 버전에서 제거됩니다. 'HTTPS' 원본으로 마이그레이션하는 것이 좋습니다."
+    }
+  ]
+}
